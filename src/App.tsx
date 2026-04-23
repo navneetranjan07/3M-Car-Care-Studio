@@ -1065,7 +1065,7 @@ function App() {
               © {new Date().getFullYear()} 3M Car Care Studio Chinchwad. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm">
-              Authorized 3M Car Care Center | Website by klsajjdfjsdl
+              Authorized 3M Car Care Center | Website by navneetranjan07
             </p>
           </div>
         </div>
